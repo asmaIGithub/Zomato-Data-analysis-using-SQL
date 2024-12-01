@@ -1,4 +1,4 @@
-# Zomato Purchase Analysis Using SQL 🍴📊
+# Zomato  Data Analysis Using SQL 🍴📊
 
 This project focuses on analyzing customer purchase behavior using SQL with a sample dataset inspired by Zomato. The analysis includes insights into customer preferences, spending patterns, and loyalty program impact. It demonstrates the use of SQL for data exploration, aggregation, and reporting.
 
